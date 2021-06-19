@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yXxsnzgLkzCAebk/GNO9U/JlaM5nTMAzXKrNPXW8pgPmN/zBLuPLmqsIF4EkNNd5jViwTVp40dzZvCV8EbnUVQ==",
+  "dgSpecHash": "tU+IEL4zujtiJ4yGyPIvVOUED2mFEs4DO8dJydGbsrSc0WIHPStwlNkWq4hMoizTFtq766DuWCaKLKoXj3hbfg==",
   "success": true,
-  "projectFilePath": "E:\\ASP.net\\ASP.net Core\\SignalRAPI\\SignalRAPI\\SignalRAPI.csproj",
+  "projectFilePath": "E:\\Github\\Private Projects\\SignalR-Core-API\\SignalRAPI\\SignalRAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\OsAmA AL-Daja\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\OsAmA AL-Daja\\.nuget\\packages\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",

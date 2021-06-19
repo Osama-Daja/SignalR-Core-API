@@ -34,7 +34,7 @@ namespace SignalRAPI
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
 
             services.AddDbContext<AuthenticationContext>(options =>
-            options.UseSqlServer("Data Source=SQL5097.site4now.net;Initial Catalog=DB_A5469D_Chat;User Id=DB_A5469D_Chat_admin;Password=Unity1996^_^"));
+            options.UseSqlServer(""));
 
             services.AddSignalR();
             services.AddMvc();

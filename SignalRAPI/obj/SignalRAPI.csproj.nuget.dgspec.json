@@ -1,21 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ASP.net\\ASP.net Core\\SignalRAPI\\SignalRAPI\\SignalRAPI.csproj": {}
+    "E:\\Github\\Private Projects\\SignalR-Core-API\\SignalRAPI\\SignalRAPI.csproj": {}
   },
   "projects": {
-    "E:\\ASP.net\\ASP.net Core\\SignalRAPI\\SignalRAPI\\SignalRAPI.csproj": {
+    "E:\\Github\\Private Projects\\SignalR-Core-API\\SignalRAPI\\SignalRAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ASP.net\\ASP.net Core\\SignalRAPI\\SignalRAPI\\SignalRAPI.csproj",
+        "projectUniqueName": "E:\\Github\\Private Projects\\SignalR-Core-API\\SignalRAPI\\SignalRAPI.csproj",
         "projectName": "SignalRAPI",
-        "projectPath": "E:\\ASP.net\\ASP.net Core\\SignalRAPI\\SignalRAPI\\SignalRAPI.csproj",
+        "projectPath": "E:\\Github\\Private Projects\\SignalR-Core-API\\SignalRAPI\\SignalRAPI.csproj",
         "packagesPath": "C:\\Users\\OsAmA AL-Daja\\.nuget\\packages\\",
-        "outputPath": "E:\\ASP.net\\ASP.net Core\\SignalRAPI\\SignalRAPI\\obj\\",
+        "outputPath": "E:\\Github\\Private Projects\\SignalR-Core-API\\SignalRAPI\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\OsAmA AL-Daja\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -29,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
             "projectReferences": {}
           }
         },
@@ -40,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
           "dependencies": {
             "Microsoft.AspNetCore.App": {
               "suppressParent": "All",
@@ -69,7 +68,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }
